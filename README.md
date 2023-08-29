@@ -2,30 +2,36 @@
 
 Android Basics with Compose is a self-paced, online course on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 
-#### Unit 1: Your first Android app 
-3 pathways | Duration: 10 hours
+*** 
 
-- Learn programming basics and create your first Android app.
-- Write simple Kotlin programs that display text output.
-- Download and install Android Studio.
-- Build an Android app with a simple user interface that displays text and images.
-- Run the app on a device or emulator.
+### Unit 1: Your first Android app
+`3 pathways | Duration: 10 hours`
 
-##### Introduction to Kotlin
-Pathway 1 | Duration: 3 hours 
-Learn introductory programming concepts in Kotlin.
-
-#### Setup Android Studio
-Pathway 2 | Duration: 4 hours 
-Install and set up Android Studio, create your first project, and run it on a device or emulator.
-
-#### Build a basic layout
-Pathway 3 | Duration: 3 hours 
+Learn programming basics and create your first Android app.
+Write simple Kotlin programs that display text output.
+Download and install Android Studio.
 Build an Android app with a simple user interface that displays text and images.
+Run the app on a device or emulator.
 
+**Introduction to Kotlin**
+`Pathway 1 | Duration: 3 hours`
+
+- Learn introductory programming concepts in Kotlin.
+
+**Setup Android Studio**
+`Pathway 2 | Duration: 4 hours`
+
+- Install and set up Android Studio, create your first project, and run it on a device or emulator.
+
+**Build a basic layout**
+`Pathway 3 | Duration: 3 hours`
+
+- Build an Android app with a simple user interface that displays text and images.
+
+***
 
 ### Unit 2: Building app UI 
-3 pathways | Duration: 21 hours
+`3 pathways | Duration: 21 hours`
 
 - Continue learning the fundamentals of Kotlin, and start building more interactive apps.
 - Use conditionals, function types, classes, and lambda expressions in Kotlin.
@@ -36,22 +42,25 @@ Build an Android app with a simple user interface that displays text and images.
 - Write unit tests to test isolated functions.
 
 
-#### Kotlin fundamentals
-Pathway 1 | Duration: 8 hours 
-Learn more fundamentals of Kotlin, object-oriented programming, and lambdas.
+**Kotlin fundamentals**
+`Pathway 1 | Duration: 8 hours`
 
-#### Add a button to an app
-Pathway 2 | Duration: 6 hours 
-Learn how to respond to a button click in an Android app.
+- Learn more fundamentals of Kotlin, object-oriented programming, and lambdas.
 
-#### Interacting with UI and state
-Pathway 3 | Duration: 7 hours 
-Create a tip calculator app that calculates the tip from user input.
+**Add a button to an app**
+`Pathway 2 | Duration: 6 hours`
 
+- Learn how to respond to a button click in an Android app.
 
+**Interacting with UI and state**
+`Pathway 3 | Duration: 7 hours`
+
+- Create a tip calculator app that calculates the tip from user input.
+
+***
 
 ### Unit 3: Display lists and use Material Design 
-3 Pathways | Duration: 15 hours
+`3 Pathways | Duration: 15 hours`
 
 - Build apps that display a list of data and learn how to make your apps more beautiful with Material Design.
 - Use data classes, functions, and collections in Kotlin.
@@ -60,21 +69,25 @@ Create a tip calculator app that calculates the tip from user input.
 - Add an app bar to the app and modify the app theme.
 - Use Material Design to build modern and intuitive user interfaces, using colors, shapes and typography.
 
-#### More Kotlin fundamentals
-Pathway 1 | Duration: 8 hours 
-Learn additional Kotlin programming concepts that will enable you to build more interesting and fun Android apps.
+**More Kotlin fundamentals**
+`Pathway 1 | Duration: 8 hours`
 
-#### Build a scrollable list
-Pathway 2 | Duration: 4 hours 
-Create an app that displays a scrollable list of text and images using Compose.
+- Learn additional Kotlin programming concepts that will enable you to build more interesting and fun Android apps.
 
-#### Build beautiful apps
-Pathway 3 | Duration: 3 hours 
-Make your apps more beautiful and intuitive to use with Material Design, animations, and accessibility best practices.
+**Build a scrollable list**
+`Pathway 2 | Duration: 4 hours`
 
+- Create an app that displays a scrollable list of text and images using Compose.
+
+**Build beautiful apps**
+`Pathway 3 | Duration: 3 hours`
+
+- Make your apps more beautiful and intuitive to use with Material Design, animations, and accessibility best practices.
+
+***
 
 ### Unit 4: Navigation and app architecture
-3 pathways | Duration: 27 hours
+`3 pathways | Duration: 27 hours`
 
 - Learn the best practices of app architecture to build more complex apps. Enhance your users' ability to navigate across, into and back out from the various screens within your app for a consistent and predictable user experience.
 - Explain activities and their lifecycles.
@@ -86,23 +99,27 @@ Make your apps more beautiful and intuitive to use with Material Design, animati
 - Use window class sizes to build for different screen sizes.
 - Add a navigation drawer to an app.
 
-#### Architecture Components
-Pathway 1 | Duration: 9 hours 
-Learn about app architecture and how to use ViewModels, UI State, and StateFlow to build more complex apps.
+**Architecture Components**
+`Pathway 1 | Duration: 9 hours`
+
+- Learn about app architecture and how to use ViewModels, UI State, and StateFlow to build more complex apps.
 
 
-##### Navigation in Jetpack Compose
-Pathway 2 | Duration: 6 hours 
+**Navigation in Jetpack Compose**
+`Pathway 2 | Duration: 6 hours`
+
 - Learn how to use the Navigation component to build more complex apps with more screens and how to navigate and pass data between different composables.
 
 
-##### Adapt for different screen sizes
-Pathway 3 | Duration: 13 hours 
+**Adapt for different screen sizes**
+`Pathway 3 | Duration: 13 hours`
+
 - In this pathway, you'll learn how to adapt your app to different screen sizes and provide a better user experience, as well as how to test your adaptive UI.
 
+***
 
 ### Unit 5: Connect to the internet
-2 Pathways | Duration: 14 hours
+`2 Pathways | Duration: 14 hours`
 
 - Use Kotlin coroutines to perform multiple tasks at once, and learn about HTTP and REST to get data from the internet using Retrofit. Then use the Coil library to display images in your app.
 - Describe the basics of concurrency and how to use coroutines in an Android app.
@@ -113,18 +130,21 @@ Pathway 3 | Duration: 13 hours
 - Implement dependency injection to decouple the classes, making it easier to test, maintain, and scale the app.
 
 
-##### Get data from the internet
-Pathway 1 | Duration: 6 hours 
-Implement coroutines to perform tasks concurrently without blocking the app, and learn about HTTP and REST to get data from the internet.
+**Get data from the internet**
+`Pathway 1 | Duration: 6 hours`
+
+- Implement coroutines to perform tasks concurrently without blocking the app, and learn about HTTP and REST to get data from the internet.
 
 
-##### Load and display images from the internet
-Pathway 2 | Duration: 3 hours 
-Apply architecture best practices to the app and use Coil to download and display images.
+**Load and display images from the internet**
+`Pathway 2 | Duration: 3 hours`
 
+- Apply architecture best practices to the app and use Coil to download and display images.
+
+***
 
 ### Unit 6: Data persistence
-3 Pathways | Duration: 10 hours
+`3 Pathways | Duration: 10 hours`
 
 - Learn how to store data locally on the device and keep your apps working through any network disruptions for a smooth and consistent user experience.
 - Learn the basics of SQL to insert, update, and delete data from a SQLite database.
@@ -133,21 +153,25 @@ Apply architecture best practices to the app and use Coil to download and displa
 - Use Preference DataStore to store user preferences.
 
 
-##### Introduction to SQL
-Pathway 1 | Duration: 2 hours 
-Learn how to use SQL to read and manipulate data in a relational database.
+**Introduction to SQL**
+`Pathway 1 | Duration: 2 hours`
 
-##### Use Room for data persistence
-Pathway 2 | Duration: 6 hours 
-Use the Room library to easily create and use relational databases in an Android app.
+- Learn how to use SQL to read and manipulate data in a relational database.
 
-##### Store and access data using keys with DataStore
-Pathway 3 | Duration: 2 hours 
-Learn how to store simple, key-value pair data with Preferences DataStore in an Android app
+**Use Room for data persistence**
+`Pathway 2 | Duration: 6 hours`
 
+- Use the Room library to easily create and use relational databases in an Android app.
+
+**Store and access data using keys with DataStore**
+`Pathway 3 | Duration: 2 hours`
+
+- Learn how to store simple, key-value pair data with Preferences DataStore in an Android app
+
+***
 
 ### Unit 7: WorkManager
-1 Pathway | Duration: 6 hours
+`1 Pathway | Duration: 6 hours`
 
 - Use Android Jetpack's WorkManager API to schedule necessary background work, such as data backups or fresh content downloads, that keeps running even if the app exits or the device restarts.
 - Define long running tasks that need to run in background work.
@@ -156,13 +180,15 @@ Learn how to store simple, key-value pair data with Preferences DataStore in an 
 - Create constraints on WorkRequests.
 - Use the Background Task Inspector to inspect and debug WorkManager.
 
-##### Schedule tasks with WorkManager
-Pathway 1 | Duration: 3 hours 
-Learn when and how to use WorkManager, an API that handles background work that needs to run regardless of whether the application process is still running.
+**Schedule tasks with WorkManager**
+`Pathway 1 | Duration: 3 hours`
 
+- Learn when and how to use WorkManager, an API that handles background work that needs to run regardless of whether the application process is still running.
+
+***
 
 ### Unit 8: Views and Compose
-2 Pathways | Duration: 4 hours
+`2 Pathways | Duration: 4 hours`
 
 - Learn how to use Compose and the older UI toolkit based on Views side-by-side in the same app. In this unit, you will learn interoperability APIs and best practices to add a new feature to an existing app in Views, use an existing library that uses Views, or use a UI component that is not yet available in Compose.
 - Understand the View-based UI toolkit and build app UI using XML.
@@ -172,12 +198,14 @@ Learn when and how to use WorkManager, an API that handles background work that 
 - Add existing View-based UI components in a Compose app.
 
 
-#### Android Views and Compose in Views
-Pathway 1 | Duration: 3 hours 
-Learn the basics of building apps with Android Views and how to add a composable in an app built with Views.
+**Android Views and Compose in Views**
+`Pathway 1 | Duration: 3 hours`
 
-##### Views in Compose
-Pathway 2 | Duration: 1 hours 
-Learn how to add and use existing Views inside an app built with Jetpack Compose.
+- Learn the basics of building apps with Android Views and how to add a composable in an app built with Views.
+
+**Views in Compose**
+`Pathway 2 | Duration: 1 hours` 
+
+- Learn how to add and use existing Views inside an app built with Jetpack Compose.
 
 
